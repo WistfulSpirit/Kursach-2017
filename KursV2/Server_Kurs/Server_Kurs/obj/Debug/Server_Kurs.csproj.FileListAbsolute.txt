@@ -1,0 +1,30 @@
+C:\Users\пк\source\repos\Server_Kurs\Server_Kurs\obj\Debug\Server_Kurs.csprojResolveAssemblyReference.cache
+C:\Users\пк\source\repos\Server_Kurs\Server_Kurs\obj\Debug\Server_Kurs.Properties.Resources.resources
+C:\Users\пк\source\repos\Server_Kurs\Server_Kurs\obj\Debug\Server_Kurs.csproj.GenerateResource.Cache
+C:\Users\пк\source\repos\Server_Kurs\Server_Kurs\obj\Debug\Server_Kurs.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Server_Kurs\Server_Kurs\bin\Debug\Server_Kurs.exe.config
+C:\Users\пк\source\repos\Server_Kurs\Server_Kurs\bin\Debug\Server_Kurs.exe
+C:\Users\пк\source\repos\Server_Kurs\Server_Kurs\bin\Debug\Server_Kurs.pdb
+C:\Users\пк\source\repos\Server_Kurs\Server_Kurs\obj\Debug\Server_Kurs.exe
+C:\Users\пк\source\repos\Server_Kurs\Server_Kurs\obj\Debug\Server_Kurs.pdb
+C:\Users\пк\source\repos\Server_Kurs\Server_Kurs\obj\Debug\Server_Kurs.Form1.resources
+C:\Users\пк\source\repos\KursV2\Server_Kurs\Server_Kurs\bin\Debug\Server_Kurs.exe
+C:\Users\пк\source\repos\KursV2\Server_Kurs — копия\Server_Kurs\bin\Debug\Server_Kurs.exe.config
+C:\Users\пк\source\repos\KursV2\Server_Kurs — копия\Server_Kurs\bin\Debug\Server_Kurs.exe
+C:\Users\пк\source\repos\KursV2\Server_Kurs — копия\Server_Kurs\bin\Debug\Server_Kurs.pdb
+C:\Users\пк\source\repos\KursV2\Server_Kurs — копия\Server_Kurs\obj\Debug\Server_Kurs.csprojResolveAssemblyReference.cache
+C:\Users\пк\source\repos\KursV2\Server_Kurs — копия\Server_Kurs\obj\Debug\Server_Kurs.Form1.resources
+C:\Users\пк\source\repos\KursV2\Server_Kurs — копия\Server_Kurs\obj\Debug\Server_Kurs.Properties.Resources.resources
+C:\Users\пк\source\repos\KursV2\Server_Kurs — копия\Server_Kurs\obj\Debug\Server_Kurs.csproj.GenerateResource.Cache
+C:\Users\пк\source\repos\KursV2\Server_Kurs — копия\Server_Kurs\obj\Debug\Server_Kurs.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\KursV2\Server_Kurs — копия\Server_Kurs\obj\Debug\Server_Kurs.exe
+C:\Users\пк\source\repos\KursV2\Server_Kurs — копия\Server_Kurs\obj\Debug\Server_Kurs.pdb
+C:\Users\пк\source\repos\KursV2\Server_Kurs\Server_Kurs\bin\Debug\Server_Kurs.exe.config
+C:\Users\пк\source\repos\KursV2\Server_Kurs\Server_Kurs\obj\Debug\Server_Kurs.Form1.resources
+C:\Users\пк\source\repos\KursV2\Server_Kurs\Server_Kurs\obj\Debug\Server_Kurs.Properties.Resources.resources
+C:\Users\пк\source\repos\KursV2\Server_Kurs\Server_Kurs\obj\Debug\Server_Kurs.csproj.GenerateResource.Cache
+C:\Users\пк\source\repos\KursV2\Server_Kurs\Server_Kurs\obj\Debug\Server_Kurs.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\KursV2\Server_Kurs\Server_Kurs\obj\Debug\Server_Kurs.exe
+C:\Users\пк\source\repos\KursV2\Server_Kurs\Server_Kurs\obj\Debug\Server_Kurs.pdb
+C:\Users\пк\source\repos\KursV2\Server_Kurs\Server_Kurs\bin\Debug\Server_Kurs.pdb
+C:\Users\пк\source\repos\KursV2\Server_Kurs\Server_Kurs\obj\Debug\Server_Kurs.csprojResolveAssemblyReference.cache

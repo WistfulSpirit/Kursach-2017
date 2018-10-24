@@ -1,0 +1,10 @@
+C:\Users\пк\source\repos\KursV2\Client_Kurs\Client_Kurs\bin\Release\Client_Kurs.exe.config
+C:\Users\пк\source\repos\KursV2\Client_Kurs\Client_Kurs\bin\Release\Client_Kurs.exe
+C:\Users\пк\source\repos\KursV2\Client_Kurs\Client_Kurs\bin\Release\Client_Kurs.pdb
+C:\Users\пк\source\repos\KursV2\Client_Kurs\Client_Kurs\obj\Release\Client_Kurs.MainForm.resources
+C:\Users\пк\source\repos\KursV2\Client_Kurs\Client_Kurs\obj\Release\Client_Kurs.Properties.Resources.resources
+C:\Users\пк\source\repos\KursV2\Client_Kurs\Client_Kurs\obj\Release\Client_Kurs.SettingsForm.resources
+C:\Users\пк\source\repos\KursV2\Client_Kurs\Client_Kurs\obj\Release\Client_Kurs.csproj.GenerateResource.Cache
+C:\Users\пк\source\repos\KursV2\Client_Kurs\Client_Kurs\obj\Release\Client_Kurs.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\KursV2\Client_Kurs\Client_Kurs\obj\Release\Client_Kurs.exe
+C:\Users\пк\source\repos\KursV2\Client_Kurs\Client_Kurs\obj\Release\Client_Kurs.pdb
